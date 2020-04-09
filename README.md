@@ -1,13 +1,10 @@
 # SQL
 The purpose of this project is to show the queries solution for 'sqlzoo.net' modules.
 
-
-Project: Databases Course - Databases and SQL
-
 <br />
 <p align="center">
   
-  <h2 align="center">SQL</h2>
+  <h2 align="center">Databases Course - Databases and SQL</h2>
 
   <p align="center">
     <br />
@@ -21,16 +18,6 @@ Project: Databases Course - Databases and SQL
   </p>
 </p>
 
-https://www.theodinproject.com/courses/databases/lessons/sql
-
-## Table of Contents
-
-* [Getting Started](#getting-started)
-* [About the Project](#about-the-project)
-* [Built With](#built-with)
-* [Acknowledgements](#acknowledgements)
-* [License](#license)
-* [Contact](#contact)
 
 ## About The Project
 
